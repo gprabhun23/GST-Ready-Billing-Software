@@ -1,0 +1,8 @@
+C:\Users\Ganesh\Documents\SharpDevelop Projects\TechnolineComputers\TechnolineComputers\bin\Debug\TechnolineComputers.exe.config
+C:\Users\Ganesh\Documents\SharpDevelop Projects\TechnolineComputers\TechnolineComputers\bin\Debug\TechnolineComputers.exe
+C:\Users\Ganesh\Documents\SharpDevelop Projects\TechnolineComputers\TechnolineComputers\bin\Debug\TechnolineComputers.pdb
+C:\Users\Ganesh\Documents\SharpDevelop Projects\TechnolineComputers\TechnolineComputers\obj\Debug\TechnolineComputers.csprojResolveAssemblyReference.cache
+C:\Users\Ganesh\Documents\SharpDevelop Projects\TechnolineComputers\TechnolineComputers\obj\Debug\TechnolineComputers.MainForm.resources
+C:\Users\Ganesh\Documents\SharpDevelop Projects\TechnolineComputers\TechnolineComputers\obj\Debug\TechnolineComputers.csproj.GenerateResource.Cache
+C:\Users\Ganesh\Documents\SharpDevelop Projects\TechnolineComputers\TechnolineComputers\obj\Debug\TechnolineComputers.exe
+C:\Users\Ganesh\Documents\SharpDevelop Projects\TechnolineComputers\TechnolineComputers\obj\Debug\TechnolineComputers.pdb

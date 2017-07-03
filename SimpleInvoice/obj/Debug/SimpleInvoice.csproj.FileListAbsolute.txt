@@ -1,0 +1,8 @@
+C:\Users\Ganesh\Documents\GitHub\GST-Ready-Billing-Software\SimpleInvoice\obj\Debug\SimpleInvoice.csprojResolveAssemblyReference.cache
+C:\Users\Ganesh\Documents\GitHub\GST-Ready-Billing-Software\SimpleInvoice\obj\Debug\SimpleInvoice.SimpleInvoice.resources
+C:\Users\Ganesh\Documents\GitHub\GST-Ready-Billing-Software\SimpleInvoice\obj\Debug\SimpleInvoice.csproj.GenerateResource.Cache
+C:\Users\Ganesh\Documents\GitHub\GST-Ready-Billing-Software\SimpleInvoice\obj\Debug\TechnolineComputers.exe
+C:\Users\Ganesh\Documents\GitHub\GST-Ready-Billing-Software\SimpleInvoice\obj\Debug\TechnolineComputers.pdb
+C:\Users\Ganesh\Documents\GitHub\GST-Ready-Billing-Software\SimpleInvoice\bin\Debug\TechnolineComputers.exe.config
+C:\Users\Ganesh\Documents\GitHub\GST-Ready-Billing-Software\SimpleInvoice\bin\Debug\TechnolineComputers.exe
+C:\Users\Ganesh\Documents\GitHub\GST-Ready-Billing-Software\SimpleInvoice\bin\Debug\TechnolineComputers.pdb
